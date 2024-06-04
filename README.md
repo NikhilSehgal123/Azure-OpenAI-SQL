@@ -49,7 +49,7 @@ This project showcases the capabilities of combining OpenAI's GPT-4 with Streaml
 
 1. **Run the Streamlit App**:
     ```bash
-    streamlit run main_app.py
+    streamlit run main_app_streamlit.py
     ```
 
 2. Open the displayed URL in your browser, usually `http://localhost:8501`.
