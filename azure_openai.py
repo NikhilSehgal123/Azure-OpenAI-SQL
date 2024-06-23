@@ -5,7 +5,7 @@ import openai
 load_dotenv()
 
 openai.api_type = "azure"
-openai.api_base = "https://azureopenai-vastmindz.openai.azure.com/"
+openai.api_base = "<YOUR AZURE OPENAI ENDPOINT>"
 openai.api_version = "2023-03-15-preview"
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
